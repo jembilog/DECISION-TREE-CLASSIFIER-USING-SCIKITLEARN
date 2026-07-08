@@ -1,0 +1,21 @@
+Age,Income,CreditScore,Employment,LoanApproved
+25,35000,650,Employed,Yes
+30,42000,700,Employed,Yes
+35,,720,Self-employed,Yes
+40,50000,,Employed,Yes
+22,18000,580,Unemployed,No
+28,29000,610,Employed,No
+45,80000,780,Employed,Yes
+50,90000,800,,Yes
+27,31000,640, employed ,Yes
+33,45000,690,EMPLOYED,Yes
+29,27000,600,Unemployed,No
+38,52000,730,Self-employed,Yes
+41,55000,740,Self-employed,Yes
+36,47000,710,Self-employed,Yes
+60,100000,820,Employed,Yes
+24,22000,,Unemployed,No
+31,39000,680,Employed,Yes
+31,39000,680,Employed,Yes
+43,58000,760,Self-employed,Yes
+26,25000,590,Unemployed,No
